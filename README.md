@@ -12,12 +12,12 @@ PHP, Laravel, Statamic, JavaScript, Astro, React, Vue.js, Tailwind CSS, Node.js
 
 #### Side projects
 
-- [jarnesjo.com](https://jarnesjo.com) -- personal blog, built with Astro and MDX
-- [Puls](https://github.com/webready-se/puls) -- cookieless analytics in a single PHP file
-- [Odlingsguiden](https://lillabosgarden.se/odlingsguiden) -- Swedish gardening guide with 50+ vegetables
-- [Snittränta](https://snittränta.se) -- average interest rate comparison for Swedish banks
-- [FeedBackPack](https://feedbackpack.app) -- collect feedback with screenshots from your users
-- [PR LOG](https://prlog.app) -- track your personal records in training
+- [jarnesjo.com](https://jarnesjo.com) - personal blog, built with Astro and MDX
+- [Puls](https://github.com/webready-se/puls) - cookieless analytics in a single PHP file
+- [Odlingsguiden](https://lillabosgarden.se/odlingsguiden) - Swedish gardening guide with 50+ vegetables
+- [Snittränta](https://snittränta.se) - average interest rate comparison for Swedish banks
+- [FeedBackPack](https://feedbackpack.app) - collect feedback with screenshots from your users
+- [PR LOG](https://prlog.app) - track your personal records in training
 
 #### Find me elsewhere
 
